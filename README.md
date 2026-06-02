@@ -138,5 +138,5 @@ Actively looking for QA / Software Testing opportunities
 
 This project was done independently to build hands-on testing skills and create a portfolio that shows real testing work. I followed the full STLC requirement analysis, test planning, test design, execution, defect reporting, and test closure.
 
-- 📧 purva.rawale09@gmail.com
+- 📧 purva.rawale9@gmail.com
   
