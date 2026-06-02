@@ -136,7 +136,7 @@ Full details with steps to reproduce are in `/defects/07_Bug_Report_CartFlow.xls
 Fresher — Manual QA Tester
 Actively looking for QA / Software Testing opportunities
 
-This project was done independently to build hands-on testing skills and create a portfolio that shows real testing work. I followed the full STLC — requirement analysis, test planning, test design, execution, defect reporting, and test closure.
+This project was done independently to build hands-on testing skills and create a portfolio that shows real testing work. I followed the full STLC requirement analysis, test planning, test design, execution, defect reporting, and test closure.
 
 - 📧 purva.rawale09@gmail.com
   
